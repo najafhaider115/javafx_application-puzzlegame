@@ -1,0 +1,22 @@
+*
+{
+  -fx-background-color:rgb(238, 81, 20);
+  -fx-border-color:white;
+  -fx-border-width:2px;
+}
+Button
+{
+  -fx-background-color:rgb(94, 228, 101);
+  -fx-border-color:white;
+  -fx-border-width:2px;
+  /* -fx-font-weight:bold; */
+  -fx-font-size: large;
+  
+}
+Label{
+  -fx-background-color:white;
+  -fx-border-color:black;
+  -fx-border-width:2px;
+  -fx-font-weight:bold;
+  -fx-font-size: medium;
+}
